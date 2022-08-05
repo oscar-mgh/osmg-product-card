@@ -7,7 +7,7 @@ This is a testing package for a npm deploy
 ## Example
 
 ```
-import { ProductCard, ProductImage, ProductTitle, ProductButtons } from 'osmg-Product-card';
+import { ProductCard, ProductImage, ProductTitle, ProductButtons } from 'osmg-product-card';
 ```
 
 ```
